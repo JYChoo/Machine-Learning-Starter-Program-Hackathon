@@ -5,3 +5,5 @@ https://datahack.analyticsvidhya.com/contest/machine-learning-starter-program-ha
 We are require to predict student pass or fail in each subject.<br>
 The evaluation metric of the model is using RUC.
 
+In the final result, I get a rank 31:<br>
+![Rank_Img](Rank.png)
